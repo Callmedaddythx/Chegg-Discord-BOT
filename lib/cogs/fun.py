@@ -1,6 +1,7 @@
 import csv
 from discord.ext.commands import Cog
 from discord.ext.commands import command
+from lib.bot.cheggcheck import QuestionBot
 
 filename = r"D:\GitHub\Chegg-Discord-BOT\lib\cogs\mails.csv"
 
@@ -31,22 +32,28 @@ class Fun(Cog):
                 await ctx.send("New user has been added!")
                 return True
 
+    @command(name="chegg", aliases=["check"])
+    async def chegg_answer(self, ctx, link):
 
+        userId = str(ctx.message.author.id)
 
+        with open(filename, 'r') as csvfile:
+            csvreader = csv.reader(csvfile)
 
-# Reply Hello/Hi/Hey/Hiya to the given hello command
-# @command(name="hello", aliases=["hi"])
-# async def say_hello(self, ctx):
-#     await ctx.send(f"{choice(('Hello', 'Hi', 'Hey', 'Hiya'))} {ctx.author.mention} !")
+            for line in csvreader:
+                if line[0] == userId:
+                    userMail = line[1]
 
+                    await ctx.send("I am searching for the answer, please give me a few seconds!".format(userMail))
+                    bot = QuestionBot(r"C:\firefoxdriver\geckodriver.exe", str(ctx.message.author), userMail)
+                    bot.main(str(link))
+                    await ctx.send("I have sent the answer to {0}, makes sure to check it within a few minutes!".format(userMail))
 
-# Roll a dice and print it
-# @command(name="dice", aliases=["roll"])
-# async def roll_dice(self, ctx, die_string: str):
-#     dice, value = (int(term) for term in die_string.split("d"))
-#     rolls = [randint(1, value) for i in range(dice)]
-#
-#     await ctx.send(" + ".join([str(r) for r in rolls]) + f" = {sum(rolls)}")
+                    return True
+
+            await ctx.send("You have not added your email to our database, make sure to add your own email by using```+addmail YOUREMAIL@mail.com```")
+            print("This user has not registered a mail to our database yet.")
+            return True
 
 
 # Send a file using the bot command
@@ -54,13 +61,6 @@ class Fun(Cog):
 # async def slap_member(self, ctx, member: Member, *, reason: Optional[str] = "no reason"):
 #     await ctx.send(f"{ctx.author.mention} slapped {member.mention}  {reason}!")
 #     await ctx.send(file=File("./data/images/slap.gif"))
-
-
-# Rsend the same message using the bot and delete your last message
-# @command(name="echo", aliases=["say"])
-# async def echo_message(self, ctx, *, message):
-#     await ctx.message.delete()
-#     await ctx.send(message)
 
 @Cog.listener()
 async def on_ready(self):

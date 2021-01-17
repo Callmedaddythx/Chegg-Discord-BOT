@@ -1,0 +1,12 @@
+1610920819674	geckodriver	INFO	Listening on 127.0.0.1:60972
+1610920822766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Vusal\\AppData\\Local\\Temp\\rust_mozprofile2BVscK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610920824668	Marionette	INFO	Listening on port 60980
+1610920824832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610920824843	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1610920831359	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1610920832351	Marionette	INFO	Stopped listening on port 60980
