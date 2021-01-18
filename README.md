@@ -74,5 +74,8 @@ Please do not care about what is really going in the background, again, this was
 
 </p>
 
+### Vote on top.gg
+<a href="https://top.gg/bot/799756668111683674">Click here!</a>
+
 ### License
 <h5>MIT</h5>
