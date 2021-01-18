@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d41e6b42-9be2-4b0b-97d4-adc1e393d3bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bot/cheggcheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bot/geckodriver.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/launcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/launcher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/cogs/fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/cogs/fun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/cogs/mails.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lib/cogs/mails.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +167,7 @@
       <workItem from="1610833530237" duration="69000" />
       <workItem from="1610833600894" duration="8613000" />
       <workItem from="1610902373282" duration="783000" />
-      <workItem from="1610914114903" duration="4371000" />
+      <workItem from="1610914114903" duration="8077000" />
     </task>
     <servers />
   </component>
@@ -195,7 +191,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Chegg_Discord_BOT$postDemo.coverage" NAME="postDemo Coverage Results" MODIFIED="1610762499576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Chegg_Discord_BOT$launcher.coverage" NAME="launcher Coverage Results" MODIFIED="1610921879944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chegg_Discord_BOT$launcher.coverage" NAME="launcher Coverage Results" MODIFIED="1610930161778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chegg_Discord_BOT$fun.coverage" NAME="fun Coverage Results" MODIFIED="1610834751160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/cogs" />
     <SUITE FILE_PATH="coverage/Chegg_Discord_BOT$cheggcheck.coverage" NAME="cheggcheck Coverage Results" MODIFIED="1610920819235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/bot" />
   </component>
