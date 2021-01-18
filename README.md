@@ -41,10 +41,12 @@ Please do not care about what is really going in the background, again, this was
 <i>Bot will reply as:</i>
 
 <p align="center">
-	<img src="https://woosal.com/1337/woosal1337-MQzLUJEOHiKmOYSfTvFXhJt33IMkM4ZQZJTQhMHlpMOXFeU9o2Y0esgsfUdwr7EvZpiDV9XphGTBegZaLAilSuVbQ.png"> 
+<img src="https://woosal.com/1337/woosal1337-MQzLUJEOHiKmOYSfTvFXhJt33IMkM4ZQZJTQhMHlpMOXFeU9o2Y0esgsfUdwr7EvZpiDV9XphGTBegZaLAilSuVbQ.png"> 
 	
   Followed by:
-  
+</p>
+
+<p align="center">
 <img src="https://woosal.com/1337/woosal1337-2CpvXato7MkcNThO3Kw5POUbVLb3cyeWCLy9wCzlrFZnXZVcUgqe0oQ5OuLnkDRaryJwQxUSoVX4YHOkaK8zGTQlO.png">
 </p>
 
@@ -65,8 +67,10 @@ Please do not care about what is really going in the background, again, this was
 ### Contributors
 <p>
 <a href="https://github.com/woosal1337"><img height="100px" width="100px" src="https://woosal.com/1337/woosal1337-1phcPFdgHFd92bV2KkEz4CjF4u7muVxnNLQ7rcez0NgnWMniYbK9cIcRdy9Cl0UVl8FUtUktoIufvi1roVyPivDlM.png"></a>
+	- Vusal Ismayilov
 	
 <a href="https://github.com/yusufbenliii"><img height="100px" width="100px" src="https://woosal.com/1337/woosal1337-JcZtDaxZlz8NvucDTRSttBsvP4YJyGAZKzTxKsEEXDNWpkLWIK57sM99JBzzAp9y4Dbg4t2jeNRBq6clTmB0MRomE.png"></a>
+	- Yusuf Benli
 
 </p>
 
