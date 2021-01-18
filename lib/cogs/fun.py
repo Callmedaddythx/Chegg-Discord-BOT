@@ -3,7 +3,7 @@ from discord.ext.commands import Cog
 from discord.ext.commands import command
 from lib.bot.cheggcheck import QuestionBot
 
-filename = r"CSV_PATH"
+filename = r"GLOBAL_CSV_PATH"
 
 
 class Fun(Cog):
