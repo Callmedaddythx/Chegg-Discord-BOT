@@ -31,6 +31,7 @@ Please do not care about what is really going in the background, again, this was
 <p align="center">(Might change in the future versions.)</p>
 
 3) Ask your question by using the command below:
+
 ```+chegg QUESTION_LINK```
 
 <p align="center">
@@ -44,7 +45,7 @@ Please do not care about what is really going in the background, again, this was
 	
   Followed by:
   
-	<img src="https://woosal.com/1337/woosal1337-2CpvXato7MkcNThO3Kw5POUbVLb3cyeWCLy9wCzlrFZnXZVcUgqe0oQ5OuLnkDRaryJwQxUSoVX4YHOkaK8zGTQlO.png">
+<img src="https://woosal.com/1337/woosal1337-2CpvXato7MkcNThO3Kw5POUbVLb3cyeWCLy9wCzlrFZnXZVcUgqe0oQ5OuLnkDRaryJwQxUSoVX4YHOkaK8zGTQlO.png">
 </p>
 
 4) If you have made it here, congratulations, after a few minutes you will receive a mail including the answer/unblurred page of the Chegg link you requested. 
@@ -63,9 +64,9 @@ Please do not care about what is really going in the background, again, this was
 
 ### Contributors
 <p>
-	<a href="https://github.com/woosal1337">	<img height="100px" width="100px" src="https://woosal.com/1337/woosal1337-1phcPFdgHFd92bV2KkEz4CjF4u7muVxnNLQ7rcez0NgnWMniYbK9cIcRdy9Cl0UVl8FUtUktoIufvi1roVyPivDlM.png"></a>
+<a href="https://github.com/woosal1337"><img height="100px" width="100px" src="https://woosal.com/1337/woosal1337-1phcPFdgHFd92bV2KkEz4CjF4u7muVxnNLQ7rcez0NgnWMniYbK9cIcRdy9Cl0UVl8FUtUktoIufvi1roVyPivDlM.png"></a>
 	
-		<a href="https://github.com/yusufbenliii">	<img height="100px" width="100px" src="https://woosal.com/1337/woosal1337-JcZtDaxZlz8NvucDTRSttBsvP4YJyGAZKzTxKsEEXDNWpkLWIK57sM99JBzzAp9y4Dbg4t2jeNRBq6clTmB0MRomE.png"></a>
+<a href="https://github.com/yusufbenliii"><img height="100px" width="100px" src="https://woosal.com/1337/woosal1337-JcZtDaxZlz8NvucDTRSttBsvP4YJyGAZKzTxKsEEXDNWpkLWIK57sM99JBzzAp9y4Dbg4t2jeNRBq6clTmB0MRomE.png"></a>
 
 </p>
 
