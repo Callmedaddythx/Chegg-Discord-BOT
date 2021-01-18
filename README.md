@@ -77,5 +77,8 @@ Please do not care about what is really going in the background, again, this was
 ### Vote on top.gg
 <a href="https://top.gg/bot/799756668111683674">Click here!</a>
 
+### Data we use
+The one and only data we gather and use for the "Chegg BOT" is your registered emails. We assure you that we do not gather any message, command, chat, and anything you can think of besides the mail you have registered your own.
+
 ### License
 <h5>MIT</h5>
