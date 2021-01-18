@@ -3,7 +3,7 @@ from discord.ext.commands import Cog
 from discord.ext.commands import command
 from lib.bot.cheggcheck import QuestionBot
 
-filename = r"GLOBAL_CSV_PATH"
+filename = r"D:\GitHub\Chegg-Discord-BOT\lib\cogs\mails.csv"
 
 
 class Fun(Cog):
