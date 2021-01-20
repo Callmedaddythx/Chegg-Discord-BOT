@@ -16,6 +16,7 @@ PREFIX = "+"
 OWNER_IDS = [618038532665114624]
 COGS = [path.split(os.sep)[-1][:-3] for path in glob("./lib/cogs/*.py")]
 
+
 class Ready(object):
     def __init__(self):
         for cog in COGS:
@@ -122,10 +123,6 @@ class Bot(BotBase):
 
             while self.cogs_ready.all_ready():
                 await sleep(0.5)
-
-                # DO
-                # STUFF
-                # HERE
 
         else:
             print("BOT reconnected!")
