@@ -1,4 +1,14 @@
-  # Change Log
+  
+# Change Log
+ 
+ ## [2.0] - 2021/01/20
+ ### Changed
+ - Local Database was completely purged
+
+### Added
+- Firebase Cloud Storage for a faster and safer AUTH
+
+
  
 ## [1.1.0] - 2021/01/19
  
