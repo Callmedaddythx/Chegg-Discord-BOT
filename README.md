@@ -52,15 +52,72 @@ Please do not care about what is really going in the background, again, this was
 
 4) If you have made it here, congratulations, after a few minutes you will receive a mail including the answer/unblurred page of the Chegg link you requested. 
 
+5) Updating the mail:
+```
++updatemail newmail@mail.com
+```
+
+<p align="center">
+<img src="https://woosal.com/1337/woosal1337-6Jur8ap5h8SeVWNpyrMiqrZCoMxw8SQFPB25FZNsk5HumvAJDYuJLlFBtSEXP1ZaxrMtVfDec0V443oEhnkUqwFr8.png">
+</p>
+
+<i>Bot will reply as:</i>
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-c0CVCwrEL96py1yaPnsRvDqx6wvxXxPiDWSSK4HNyMYXq0MdnY18jJ4rmnRoteQ6cWh7fs0MC5MMoPAu9Az6J8rTQ.png">
+</p>
+
+6) Displaying your current mail details:
+
+```
++mail
+```
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-POuuK5odtAtYeAbWAvngNaCCXLfqWjT0XhjOL6UtySVNYWlusDS2pbnVNJrdieLLUj2adjsTWnfhdtROzDpYDHdG3.png">
+</p>
+
+<i>Bot will reply as:</i>
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-nZ1zgCtnPupxFURmKZTUtQpsjHTQ00GXEEefwkY2bMsWuOD4mjTTUZDdDq5eWnUFdzH1IJA1LaQamximtAD1JiWAJ.png">
+</p>
+
+7) Deleting your mail from your account
+```
++deletemail
+```
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-mSAEXsoIHLkJrT8QOaN90UFoDU2Tywid5Hiczdc3gqD8boSdgzFAXYVwy2LScEjYWdycP0AIgBohs95x0xeGgFpxn.png">
+</p>
+
+<i>Bot will reply as:</i>
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-B2p1iasflvaW5P93AAWrruBZHBmGCvZjQofDiOQOLu8JFJIhheBAib2ViP6Q8aCAesX0kROrwrwTaOnYDKTLF7ZbF.png">
+</p>
+
+8) All the commands listed for you:
+```
++commands
+```
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-K9BFmvmJn9rOB2cL6BYE7CYXxlD21aw9XkzSignfjkI6AAh9ihSpDtPF8DkuBHKgMolXW1zmCJFDJz5ZAgQeyB3q6.png">
+</p>
+
+<i>Bot will reply as:</i>
+
+<p align="center">
+	<img src="https://woosal.com/1337/woosal1337-prlr9RSILB8KLFcsWsbCa1ghTfCsPMDPH721GupNxb6mA3iQx2Cp1rsTNY7kKhgYHtfCc6ttirdCJhMAQZs40biih.png">
+</p>	
+	
 ### What to come
 <ol type="I">
-	<li>Moving database from local to cloud (safer, faster, more efficient).
+	<li>Sending the unblurred answers through the Discord Chat/PM
 	</li>
-	<li>Update the mail of the user to change your default mail to another in the database.
-	</li>
-	<li>Faster results by using different partitioning in the server.
-	</li>
-	<li>Sending the answer sheet / unblurred answers directly to the server room where it was asked, or to the user through the DM/PM as was requested.
+	<li>Faster server deployment
 	</li>
 </ol>
 
