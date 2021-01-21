@@ -113,6 +113,27 @@ Please do not care about what is really going in the background, again, this was
 	<img src="https://woosal.com/1337/woosal1337-prlr9RSILB8KLFcsWsbCa1ghTfCsPMDPH721GupNxb6mA3iQx2Cp1rsTNY7kKhgYHtfCc6ttirdCJhMAQZs40biih.png">
 </p>	
 	
+	
+### Donate The Project
+<img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/icon/btc.png"> Bitcoin 
+```
+1suQvUwJedpTFfLTJtjq38yiwbt93FpzH
+```
+<img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/icon/eth.png"> Ethereum
+```
+0xb6662CC88620B1f93BE44D81844823cd7745C531
+```
+
+
+
+| TOP DONATORS | $ |
+|:---:| :---:|
+|1. |$|
+|2.|$|
+|3.|$|
+
+
+
 ### What to come
 <ol type="I">
 	<li>Sending the unblurred answers through the Discord Chat/PM
