@@ -2,4 +2,6 @@
 *.db-journal
 __pycache__
 lib/bot/token.0
+lib/bot/key.0
+lib/bot/cheggbot-f0a71-firebase-adminsdk-anhb1-56b01a1604.json
 *.csv

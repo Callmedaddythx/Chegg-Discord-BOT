@@ -1,15 +1,12 @@
 from discord.ext.commands import Bot as BotBase
 from glob import glob
-import apscheduler
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
-from discord import Embed, File
-from datetime import datetime
 from discord.ext.commands import CommandNotFound
 from discord.ext.commands import Context
 from ..db import db
 from apscheduler.triggers.cron import CronTrigger
 from asyncio import sleep
-import csv
+import discord
 import os
 
 PREFIX = "+"
@@ -120,6 +117,8 @@ class Bot(BotBase):
             self.stdout = self.get_channel(799828505910575116)
             self.scheduler.add_job(self.print_message, CronTrigger(day_of_week=0, hour=12, minute=0, second=0))
             self.scheduler.start()
+
+            await bot.change_presence(activity=discord.Game(name="https://github.com/Chegg-BOT"))
 
             while self.cogs_ready.all_ready():
                 await sleep(0.5)
