@@ -15,7 +15,8 @@ Please do not care about what is really going in the background, again, this was
 
 ### Steps
 1) Invite the BOT to your server by clicking <a href="https://discord.com/api/oauth2/authorize?client_id=799756668111683674&permissions=8&scope=bot">here</a>
-2) Add your mail to the database of the bot, so you will never ever have to mention your email again in the upcoming answer requests as exactly shown below:
+2) Join Chegg BOT Server by clicking [here](https://discord.gg/UpzKeq5AF5) to ask your questions or to just use the bot.
+3) Add your mail to the database of the bot, so you will never ever have to mention your email again in the upcoming answer requests as exactly shown below:
 
 ```+addmail yourmail@mail.com```
 
@@ -30,7 +31,7 @@ Please do not care about what is really going in the background, again, this was
 </p>
 <p align="center">(Might change in the future versions.)</p>
 
-3) Ask your question by using the command below:
+4) Ask your question by using the command below:
 
 ```+chegg QUESTION_LINK```
 
@@ -50,9 +51,9 @@ Please do not care about what is really going in the background, again, this was
 <img src="https://woosal.com/1337/woosal1337-2CpvXato7MkcNThO3Kw5POUbVLb3cyeWCLy9wCzlrFZnXZVcUgqe0oQ5OuLnkDRaryJwQxUSoVX4YHOkaK8zGTQlO.png">
 </p>
 
-4) If you have made it here, congratulations, after a few minutes you will receive a mail including the answer/unblurred page of the Chegg link you requested. 
+5) If you have made it here, congratulations, after a few minutes you will receive a mail including the answer/unblurred page of the Chegg link you requested. 
 
-5) Updating the mail:
+6) Updating the mail:
 ```
 +updatemail newmail@mail.com
 ```
@@ -67,7 +68,7 @@ Please do not care about what is really going in the background, again, this was
 	<img src="https://woosal.com/1337/woosal1337-c0CVCwrEL96py1yaPnsRvDqx6wvxXxPiDWSSK4HNyMYXq0MdnY18jJ4rmnRoteQ6cWh7fs0MC5MMoPAu9Az6J8rTQ.png">
 </p>
 
-6) Displaying your current mail details:
+7) Displaying your current mail details:
 
 ```
 +mail
@@ -83,7 +84,7 @@ Please do not care about what is really going in the background, again, this was
 	<img src="https://woosal.com/1337/woosal1337-nZ1zgCtnPupxFURmKZTUtQpsjHTQ00GXEEefwkY2bMsWuOD4mjTTUZDdDq5eWnUFdzH1IJA1LaQamximtAD1JiWAJ.png">
 </p>
 
-7) Deleting your mail from your account
+8) Deleting your mail from your account
 ```
 +deletemail
 ```
@@ -98,7 +99,7 @@ Please do not care about what is really going in the background, again, this was
 	<img src="https://woosal.com/1337/woosal1337-B2p1iasflvaW5P93AAWrruBZHBmGCvZjQofDiOQOLu8JFJIhheBAib2ViP6Q8aCAesX0kROrwrwTaOnYDKTLF7ZbF.png">
 </p>
 
-8) All the commands listed for you:
+9) All the commands listed for you:
 ```
 +commands
 ```
@@ -113,7 +114,7 @@ Please do not care about what is really going in the background, again, this was
 	<img src="https://woosal.com/1337/woosal1337-prlr9RSILB8KLFcsWsbCa1ghTfCsPMDPH721GupNxb6mA3iQx2Cp1rsTNY7kKhgYHtfCc6ttirdCJhMAQZs40biih.png">
 </p>	
 	
-9) Chegg receive answers through DM/PM:
+10) Chegg receive answers through DM/PM:
 ```+cheggdm QUESTION_LINK```
 
 <p align="center">
@@ -126,7 +127,7 @@ Please do not care about what is really going in the background, again, this was
 	<img src="https://woosal.com/1337/woosal1337-t2SvQ2S3kC3B23rafjM6tUI1qd6de65LEVK1azKsZyZiZumEC1wB2uoe6PR89Jnax68d2PY9jxVWJHURCky2W4U5j.png">
 </p>
 
-10) Delete your current DM/PM question query (each user can ask one question at a time, and if any issues are faced, please use this command as an emergency to purge your query and start again)
+11) Delete your current DM/PM question query (each user can ask one question at a time, and if any issues are faced, please use this command as an emergency to purge your query and start again)
 
 ```+deletequestion```
 
