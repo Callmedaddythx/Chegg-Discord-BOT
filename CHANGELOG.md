@@ -1,5 +1,30 @@
   
 # Change Log
+## [X (Biggest Update Yet)] - 2021/-1/25
+### Added
+- Join Chegg BOT Server by clicking [here](https://discord.gg/UpzKeq5AF5) to ask your questions or to just use the bot.
+
+- New Commands:
+	-	+cheggdm
+	-	+deletequestion
+	
+- Admin Commands:
+	- +usersdc
+	- +usersdb
+	- +servers
+
+### Fixed
+- General Privacy Fixes:
+	- All question replies from the bot are sent through the user DM/PM instead of the server
+	- All user commands are deleted instantly as soon as they are asked
+- Sending answers through the DM/PM has been added as a BETA feature, will be up soon
+
+### General Issues
+- BOT server count hit over 200+ in under 3 days, and got a Verification Cooldown, which after getting in touch with the Discord Staff was informed will be fixed as soon as possible
+
+### Changed
+- Server deployment was temporarily done on Azure with faster connection and power
+
  ## [3.0] - 2021/01/21
  ### Added
  - New Commands: 
